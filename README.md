@@ -29,6 +29,13 @@ Essas informações são exibidas em um sistema web moderno e interativo.
 
 ---
 
+## 🔐 Acesso ao Sistema
+
+- Superusuário:
+  - **Usuário**: `maria`
+  - **Senha**: `123456`
+
+---
 ## ▶️ Como executar o projeto
 
 ### 🔙 Back-end (Django)
